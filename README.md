@@ -1,10 +1,14 @@
 # 2048Mash
 2048Mash is a modified clone of the origin 2048 number puzzle game which is a very popular 4×4 square number matching game.
+Ithas been developed with new look & flexible movements.
+NOTE: You can play it any device you want.
 
-2048Mash has been developed with new look & flexible movements.
+## Link:
 
-Instructions: 
-1. Use arrow keys or W,S,A,D keys to move numbers boxes.
+https://2048mash.netlify.app
+
+## Instructions: 
+1. Use arrow keys or W,S,A,D keys to move numbers boxes. (For Desktop/Laptop, For phone, slide numbers by touching them)
 2. Two consecutive same number boxes will be merged into one.
 3. It goes like:
 2
@@ -22,10 +26,10 @@ Instructions:
 4. Once you merged two same consecutive numbers into their sum numbers, you can't step back anymore. 
 5. If there is no more consecutive numbers match in any row or column then it's over!!
 
-Tools:
+### Tools:
 HTML, CSS, SCSS, JavaScript
 
-Reference taken from:
+### Reference taken from:
 
 1. GitHub & 
 2. https://2048game .com (Original 2048 game official site)
@@ -34,4 +38,5 @@ Reference taken from:
 2048Mash Developer: Rajdeep Das
 
 &copy; Rajdeep Das
+
 Made with ❤
