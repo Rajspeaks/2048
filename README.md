@@ -1,6 +1,6 @@
 # 2048Mash
 2048Mash is a modified clone of the origin 2048 number puzzle game which is a very popular 4×4 square number matching game.
-Ithas been developed with new look & flexible movements.
+It has been developed with new look & flexible movements.
 NOTE: You can play it any device you want.
 
 ## Link:
