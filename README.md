@@ -9,8 +9,8 @@ NOTE: You can play it any device you want.
 https://2048mash.netlify.app
 
 ## Instructions: 
-- Use arrow keys or W,S,A,D keys to move numbers boxes. (For Desktop/Laptop) 
-   For phone, slide numbers by touching them)
+- Use arrow keys or W,S,A,D keys to move numbers boxes. (Desktop/Laptop) 
+- In case of phone, slide numbers by touching them only.
 - Two consecutive same number boxes will be merged into one.
 - It goes like:
 2
