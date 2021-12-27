@@ -38,7 +38,7 @@ HTML, CSS, SCSS, JavaScript
 
 ### Screenshots:
 
-<img src="https://github.com/Rajspeaks/2048/blob/main/screenshot.png" height="500px" width="500px"> <img src="https://github.com/Rajspeaks/2048/blob/main/screenshot2.png" height="500px" width="500px"> <img src="https://github.com/Rajspeaks/2048/blob/main/screenshot3.png" height="500px" width="500px">
+<img src="https://github.com/Rajspeaks/2048/blob/main/screenshot.png" height="300px" width="300px"> <img src="https://github.com/Rajspeaks/2048/blob/main/screenshot2.png" height="300px" width="300px"> <img src="https://github.com/Rajspeaks/2048/blob/main/screenshot3.png" height="300px" width="300px">
 
 
 &copy; Rajdeep Das
