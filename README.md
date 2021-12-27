@@ -1,12 +1,16 @@
 # 2048Mash
-2048Mash is a modified clone of the origin 2048 number puzzle game which is a very popular 4×4 square number matching game.
+2048Mash is a modified clone of the original 2048 number puzzle game which is a very popular 4×4 square number matching game.
 It has been developed with new look & flexible movements.
 
-NOTE: You can play it any device you want.
+NOTE: You can play it in any device you want.
 
 ## Link:
 
+Hosted on Netlify: [![Netlify Status](https://api.netlify.com/api/v1/badges/580e173e-b975-42f9-9c68-c491c99ba9b6/deploy-status)](https://app.netlify.com/sites/2048mash/deploys)
 https://2048mash.netlify.app
+
+Original one:
+https://2048game.com
 
 ## Instructions: 
 - Use arrow keys or W,S,A,D keys to move numbers boxes. (Desktop/Laptop) 
