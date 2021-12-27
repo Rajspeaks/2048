@@ -7,9 +7,11 @@ NOTE: You can play it in any device you want.
 ## Link:
 
 Hosted on Netlify: [![Netlify Status](https://api.netlify.com/api/v1/badges/580e173e-b975-42f9-9c68-c491c99ba9b6/deploy-status)](https://app.netlify.com/sites/2048mash/deploys)
+
 https://2048mash.netlify.app
 
 Original one:
+
 https://2048game.com
 
 ## Instructions: 
