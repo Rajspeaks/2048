@@ -3,6 +3,9 @@ html, body {
   margin: 0;
   padding: 0;
   background-image: url("../asset/bg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
   color: #FFFFFF;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 15px; }
@@ -353,7 +356,8 @@ hr {
     border-radius: 60px;	}
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
-    background: #520F19; } /* 64*/
+    background: #520F19;
+	border-radius: 60px;    }
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #870909;
